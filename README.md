@@ -1,2 +1,2 @@
 # docker-zstd
-Zstandard compression utility built on Alpine
+Zstandard compression utility based on Alpine Linux
