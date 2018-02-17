@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:edge
 LABEL maintainer="https://keybase.io/tcely"
 
 RUN apk --update upgrade && \
